@@ -1,27 +1,60 @@
-# Abhijith M — Infrastructure & DevOps Portfolio
+# Abhijith M — Professional Portfolio
 
-A responsive recruiter-facing portfolio built with plain HTML, CSS and JavaScript. No build process, frameworks or external assets are required.
+A responsive personal portfolio showcasing my experience, technical skills, infrastructure projects and professional background in **IT Infrastructure, Cloud Operations and DevOps**.
 
-## Included
-- `index.html` — portfolio website
-- `Abhijith_M_Resume.pdf` — resume linked from the website
-- `abhijith-profile.png` — generated professional profile portrait
+🌐 **Live Portfolio:** https://abhijith4m.github.io/Portfolio/
 
-## Publish on GitHub Pages
-1. Create a public GitHub repository named `abhijith-portfolio`.
-2. Upload `index.html`, `Abhijith_M_Resume.pdf`, `abhijith-profile.png` and this `README.md` to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Choose branch **main** and folder **/(root)**, then save.
-6. After deployment, the website URL will be `https://YOUR-GITHUB-USERNAME.github.io/abhijith-portfolio/`.
+## 🚀 Overview
 
-For the root personal-site URL `https://YOUR-GITHUB-USERNAME.github.io/`, create a repository named exactly `YOUR-GITHUB-USERNAME.github.io`.
+This portfolio was designed to present my professional experience, technical expertise, certifications and hands-on technology projects in a clean and recruiter-friendly format.
 
-## LinkedIn
-Add the published URL to LinkedIn's Contact info / Website field and optionally add it under Featured → Add a link.
+## ✨ Features
 
-## Before making the repository public
-- Review the resume PDF and confirm you are comfortable making its contact details and employment history public.
-- The portfolio uses high-level, sanitized descriptions of defence-related work. Do not add classified, confidential, client-sensitive, internal network or security configuration details.
-- Verify that all dates, metrics and credentials are accurate and current.
-- GitHub Pages sites in public repositories are publicly accessible.
+- Responsive design for desktop and mobile devices
+- Professional profile and career summary
+- Technical skills and technology stack
+- Professional experience
+- Projects and technical implementations
+- Resume access
+- Modern UI and navigation
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub
+- GitHub Pages
+
+## 📂 Repository Contents
+
+| File | Description |
+|---|---|
+| `index.html` | Main portfolio website |
+| `Abhijith_M_Resume.pdf` | Professional resume |
+| `abhijith-profile.png` | Profile portrait |
+| `og-image.png` | Portfolio preview image |
+
+## 🌐 Deployment
+
+This portfolio is hosted using **GitHub Pages**.
+
+Repository: [Portfolio](https://github.com/abhijith4m/Portfolio)
+
+Live Website: [Visit Portfolio](https://abhijith4m.github.io/Portfolio/)
+
+## 👨‍💻 About Me
+
+IT Infrastructure and Cloud Operations professional with 11+ years of experience in infrastructure management, Windows Server administration, virtualization, cloud operations, networking, security, monitoring and DevOps support.
+
+I continuously explore new technologies and build hands-on projects to improve my technical skills and practical knowledge.
+
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/abhijith-m-6520a3113)
+- [GitHub](https://github.com/abhijith4m)
+- [Portfolio Website](https://abhijith4m.github.io/Portfolio/)
+
+---
+
+*Built and maintained as a personal professional portfolio.*
